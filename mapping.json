@@ -1,0 +1,32 @@
+{
+  "components": {
+    "Button": {
+      "appearances": {
+        "filled": {
+          "mapping": {},
+          "variantGroups": {
+            "status": {
+              "primary": {
+                "backgroundColor": "#5350FF"
+              }
+            }
+          }
+        }
+      }
+    },
+    "Input": {
+      "appearances": {
+        "filled": {
+          "mapping": {},
+          "variantGroups": {
+            "status": {
+              "primary": {
+                "backgroundColor": "#5350FF"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
